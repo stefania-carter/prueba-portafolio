@@ -1,43 +1,68 @@
-* {
-  font-family: "Fira Code", monospace;
+/* RESET BÁSICO */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li,
+a {
   margin: 0;
-
   padding: 0;
-
-  box-sizing: border-box;
-
   text-decoration: none;
+  font-family: "Fira Code", monospace;
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* NAVBAR */
 nav {
   background-color: #211f2a;
 }
+
+/* TIPOGRAFÍA GENERAL */
 body {
   font-size: 16px;
 }
-h2 {
-  font-size: 150%;
-}
+
 h1 {
   font-size: 200%;
 }
-card-title {
+
+h2 {
+  font-size: 150%;
+}
+
+/* TARJETAS */
+.card-title {
   font-weight: bold;
   text-transform: uppercase;
 }
+
 .card-subtitle {
   font-weight: 300;
   font-size: 0.9rem;
   color: #6c757d;
 }
+
 .card img {
   height: 250px;
   object-fit: cover;
 }
+
 .card-footer {
   font-size: 0.8rem;
   color: #6c757d;
 }
+
+/* TIMELINE */
 .timeline {
   position: relative;
   padding-left: 40px;
