@@ -9,3 +9,9 @@ Prueba - Modulo 01 - Introducción al Desarrollo Web
 ## 📁 Repositorio del proyecto
 
 ➡️ [Repositorio en GitHub](https://github.com/stefania-carter/prueba-portafolio.git)
+
+## 📁 Colaboraciones
+
+➡️ Fork 1: https://github.com/stefania-carter/fernandaparedes0.github.io
+
+➡️ Fork 2: https://github.com/stefania-carter/andresmqm.github.io
