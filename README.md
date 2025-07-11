@@ -1,6 +1,6 @@
 # Prueba Portafolio Web - Stefania Carter
 
-Prueba - Modulo 01 - Introducción al Desarrollo Web
+Prueba: Desarrollo de portafolio | Modulo 01 | Introducción al Desarrollo Web | Desarrollo FullStack
 
 ## 🌐 Github Page
 
